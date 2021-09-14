@@ -1,5 +1,5 @@
 # Programa_Carrinho-Social
-Projeto do programa carrinho social em Java - Bootcamp Generation Brasil
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/72994902/132438140-65b86dc6-fc16-42a6-97c1-8d26130c9452.png" width="300px">
 </div>
